@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evasingh007
-- 👀 I’m interested in Web-development
+- 👀 I’m interested in Web-development,JAVA Development
 - 🌱 I’m currently learning in Bharti Vidyapeeth 
 - 📫 How to reach me singheva066@gmail.com
   
